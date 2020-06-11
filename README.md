@@ -22,7 +22,7 @@ First cd to deeplab
 
 You need replace the directory "/home/wwg/data/CCSSD/" to your real directory to the CCSSD dataset in file train_on_multy_data.sh, vis_on_local.sh and our MATLAB script.
 
-Trian model
+Train model
 
     sh ./train_on_multy_data.sh 3 4 1,2,3,4
 
