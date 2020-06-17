@@ -58,3 +58,6 @@ If you find the code and data useful for your research, please consider citing o
   organization={Springer}
 }
 ```
+
+## Copyright
+The code and dataset are only allowed for PERSONAL and ACADEMIC usage.
